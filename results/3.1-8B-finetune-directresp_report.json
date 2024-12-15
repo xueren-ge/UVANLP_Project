@@ -1,0 +1,376 @@
+{
+    "airway - failed (protocol 3 - 16)": {
+        "precision": 0.1,
+        "recall": 0.09090909090909091,
+        "f1-score": 0.09523809523809523,
+        "support": 11.0,
+        "TP": 1,
+        "FP": 9,
+        "FN": 10,
+        "TN": 1301
+    },
+    "environmental - heat exposure/heat exhaustion environmental - heat stroke (protocol 5 - 2)": {
+        "precision": 0.4,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.36363636363636365,
+        "support": 6.0,
+        "TP": 2,
+        "FP": 3,
+        "FN": 4,
+        "TN": 1312
+    },
+    "environmental - hypothermia (protocol 5 - 1)": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1-score": 0.5,
+        "support": 2.0,
+        "TP": 1,
+        "FP": 1,
+        "FN": 1,
+        "TN": 1318
+    },
+    "general - behavioral/patient restraint (protocol 3 - 4)": {
+        "precision": 0.2727272727272727,
+        "recall": 0.3,
+        "f1-score": 0.2857142857142857,
+        "support": 20.0,
+        "TP": 6,
+        "FP": 16,
+        "FN": 14,
+        "TN": 1285
+    },
+    "general - cardiac arrest": {
+        "precision": 0.8714285714285714,
+        "recall": 0.8243243243243243,
+        "f1-score": 0.8472222222222222,
+        "support": 74.0,
+        "TP": 61,
+        "FP": 9,
+        "FN": 13,
+        "TN": 1238
+    },
+    "general - pain control": {
+        "precision": 0.3125,
+        "recall": 0.3225806451612903,
+        "f1-score": 0.31746031746031744,
+        "support": 31.0,
+        "TP": 10,
+        "FP": 22,
+        "FN": 21,
+        "TN": 1268
+    },
+    "hemorrhage control (protocol 4 - 14)": {
+        "precision": 0.3125,
+        "recall": 0.35714285714285715,
+        "f1-score": 0.3333333333333333,
+        "support": 14.0,
+        "TP": 5,
+        "FP": 11,
+        "FN": 9,
+        "TN": 1296
+    },
+    "injury - abdominal trauma": {
+        "precision": 0.16666666666666666,
+        "recall": 1.0,
+        "f1-score": 0.2857142857142857,
+        "support": 1.0,
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "TN": 1315
+    },
+    "injury - burns - thermal": {
+        "precision": 0.75,
+        "recall": 0.6,
+        "f1-score": 0.6666666666666666,
+        "support": 5.0,
+        "TP": 3,
+        "FP": 1,
+        "FN": 2,
+        "TN": 1315
+    },
+    "injury - crush syndrome (protocol 4 - 4)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0,
+        "TP": 0,
+        "FP": 5,
+        "FN": 1,
+        "TN": 1315
+    },
+    "injury - general trauma management (protocol 4 - 1)": {
+        "precision": 0.7625,
+        "recall": 0.6224489795918368,
+        "f1-score": 0.6853932584269663,
+        "support": 98.0,
+        "TP": 61,
+        "FP": 19,
+        "FN": 37,
+        "TN": 1204
+    },
+    "injury - head": {
+        "precision": 0.35714285714285715,
+        "recall": 0.5555555555555556,
+        "f1-score": 0.43478260869565216,
+        "support": 18.0,
+        "TP": 10,
+        "FP": 18,
+        "FN": 8,
+        "TN": 1285
+    },
+    "injury - thoracic (protocol 4 - 11)": {
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.3333333333333333,
+        "support": 3.0,
+        "TP": 1,
+        "FP": 2,
+        "FN": 2,
+        "TN": 1316
+    },
+    "medical - abdominal pain (protocol 3 - 2)": {
+        "precision": 0.8,
+        "recall": 0.8387096774193549,
+        "f1-score": 0.8188976377952756,
+        "support": 62.0,
+        "TP": 52,
+        "FP": 13,
+        "FN": 10,
+        "TN": 1246
+    },
+    "medical - allergic reaction/anaphylaxis": {
+        "precision": 0.8695652173913043,
+        "recall": 1.0,
+        "f1-score": 0.9302325581395349,
+        "support": 20.0,
+        "TP": 20,
+        "FP": 3,
+        "FN": 0,
+        "TN": 1298
+    },
+    "medical - altered mental status": {
+        "precision": 0.3858267716535433,
+        "recall": 0.5,
+        "f1-score": 0.43555555555555553,
+        "support": 98.0,
+        "TP": 49,
+        "FP": 78,
+        "FN": 49,
+        "TN": 1145
+    },
+    "medical - bradycardia": {
+        "precision": 0.3,
+        "recall": 0.6,
+        "f1-score": 0.4,
+        "support": 5.0,
+        "TP": 3,
+        "FP": 7,
+        "FN": 2,
+        "TN": 1309
+    },
+    "medical - chest pain - cardiac suspected (protocol 2 - 1)": {
+        "precision": 0.8930232558139535,
+        "recall": 0.7966804979253111,
+        "f1-score": 0.8421052631578947,
+        "support": 241.0,
+        "TP": 192,
+        "FP": 23,
+        "FN": 49,
+        "TN": 1057
+    },
+    "medical - diabetic - hyperglycemia": {
+        "precision": 0.7241379310344828,
+        "recall": 0.7241379310344828,
+        "f1-score": 0.7241379310344828,
+        "support": 29.0,
+        "TP": 21,
+        "FP": 8,
+        "FN": 8,
+        "TN": 1284
+    },
+    "medical - diabetic - hypoglycemia": {
+        "precision": 0.8518518518518519,
+        "recall": 0.5609756097560976,
+        "f1-score": 0.6764705882352942,
+        "support": 41.0,
+        "TP": 23,
+        "FP": 4,
+        "FN": 18,
+        "TN": 1276
+    },
+    "medical - hypotension/shock (nontrauma)": {
+        "precision": 0.5,
+        "recall": 0.35294117647058826,
+        "f1-score": 0.41379310344827586,
+        "support": 17.0,
+        "TP": 6,
+        "FP": 6,
+        "FN": 11,
+        "TN": 1298
+    },
+    "medical - nausea/vomiting": {
+        "precision": 0.6363636363636364,
+        "recall": 0.8076923076923077,
+        "f1-score": 0.711864406779661,
+        "support": 26.0,
+        "TP": 21,
+        "FP": 12,
+        "FN": 5,
+        "TN": 1283
+    },
+    "medical - overdose/poisoning - calcium channel blocker (protocol 7 - 5)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0,
+        "TP": 0,
+        "FP": 1,
+        "FN": 2,
+        "TN": 1318
+    },
+    "medical - overdose/poisoning - opioid (protocol 7 - 1)": {
+        "precision": 0.7739130434782608,
+        "recall": 0.7355371900826446,
+        "f1-score": 0.7542372881355932,
+        "support": 121.0,
+        "TP": 89,
+        "FP": 26,
+        "FN": 32,
+        "TN": 1174
+    },
+    "medical - overdose/poisoning - stimulant (protocol 7 - 2)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0,
+        "TP": 0,
+        "FP": 2,
+        "FN": 2,
+        "TN": 1317
+    },
+    "medical - overdose/poisoning/toxic ingestion (protocol 9 - 9)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0,
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "TN": 1319
+    },
+    "medical - pulmonary edema/chf (protocol 2 - 3)": {
+        "precision": 0.35714285714285715,
+        "recall": 0.2631578947368421,
+        "f1-score": 0.30303030303030304,
+        "support": 19.0,
+        "TP": 5,
+        "FP": 9,
+        "FN": 14,
+        "TN": 1293
+    },
+    "medical - respiratory distress/asthma/copd/croup/reactive airway (respiratory distress)": {
+        "precision": 0.8442211055276382,
+        "recall": 0.8842105263157894,
+        "f1-score": 0.8637532133676092,
+        "support": 190.0,
+        "TP": 168,
+        "FP": 31,
+        "FN": 22,
+        "TN": 1100
+    },
+    "medical - seizure": {
+        "precision": 0.8367346938775511,
+        "recall": 0.7884615384615384,
+        "f1-score": 0.8118811881188119,
+        "support": 104.0,
+        "TP": 82,
+        "FP": 16,
+        "FN": 22,
+        "TN": 1201
+    },
+    "medical - st elevation myocardial infarction (acs/ami) (protocol 2 - 2)": {
+        "precision": 0.3333333333333333,
+        "recall": 0.21428571428571427,
+        "f1-score": 0.2608695652173913,
+        "support": 14.0,
+        "TP": 3,
+        "FP": 6,
+        "FN": 11,
+        "TN": 1301
+    },
+    "medical - stroke/tia (protocol 3 - 5)": {
+        "precision": 0.8947368421052632,
+        "recall": 0.7285714285714285,
+        "f1-score": 0.8031496062992126,
+        "support": 70.0,
+        "TP": 51,
+        "FP": 6,
+        "FN": 19,
+        "TN": 1245
+    },
+    "medical - supraventricular tachycardia (including atrial fibrillation) medical - tachycardia medical - ventricular tachycardia with a pulse": {
+        "precision": 0.42857142857142855,
+        "recall": 0.35294117647058826,
+        "f1-score": 0.3870967741935484,
+        "support": 17.0,
+        "TP": 6,
+        "FP": 8,
+        "FN": 11,
+        "TN": 1296
+    },
+    "ob/gyn - childbirth/labor/delivery (protocol 6 - 2)": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 6.0,
+        "TP": 3,
+        "FP": 2,
+        "FN": 3,
+        "TN": 1313
+    },
+    "ob/gyn - pre-term labor (pre-term labor) (protocol 6 - 12)": {
+        "precision": 0.6,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.42857142857142855,
+        "support": 9.0,
+        "TP": 3,
+        "FP": 2,
+        "FN": 6,
+        "TN": 1310
+    },
+    "spinal motion restriction (protocol 4 - 13)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0,
+        "TP": 0,
+        "FP": 2,
+        "FN": 6,
+        "TN": 1313
+    },
+    "micro avg": {
+        "precision": 0.712481426448737,
+        "recall": 0.6929190751445087,
+        "f1-score": 0.7025641025641025,
+        "support": 1384.0
+    },
+    "macro avg": {
+        "precision": 0.47909201912696603,
+        "recall": 0.48060754634021835,
+        "f1-score": 0.4645598779135982,
+        "support": 1384.0
+    },
+    "weighted avg": {
+        "precision": 0.7286856080836447,
+        "recall": 0.6929190751445087,
+        "f1-score": 0.7060681721047567,
+        "support": 1384.0
+    },
+    "samples avg": {
+        "precision": 0.7176381529144588,
+        "recall": 0.7100681302043906,
+        "f1-score": 0.7099419631592228,
+        "support": 1384.0
+    }
+}
